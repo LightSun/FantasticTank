@@ -1,0 +1,18 @@
+bullets.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+advanced_bullet
+  rotate: false
+  xy: 0, 0
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 0, 8
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1

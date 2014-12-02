@@ -1,0 +1,46 @@
+buff.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff_addlife
+  rotate: false
+  xy: 2, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+buff_double_fire
+  rotate: false
+  xy: 48, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+buff_pause_time
+  rotate: false
+  xy: 2, 48
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+buff_safe
+  rotate: false
+  xy: 48, 48
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+buff_star
+  rotate: false
+  xy: 2, 94
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+small_brickwall
+  rotate: false
+  xy: 48, 94
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
